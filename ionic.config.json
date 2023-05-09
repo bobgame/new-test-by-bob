@@ -1,7 +1,7 @@
 {
-  "name": "Photo Gallery NG Capacitor",
+  "name": "new-test-by-bob-2",
   "integrations": {
     "capacitor": {}
   },
-  "type": "angular"
+  "type": "angular-standalone"
 }
